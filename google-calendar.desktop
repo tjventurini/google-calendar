@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Exec=/path/to/audible-dir/audible
+Name=Audible
+Comment=Custom audible client for linux.
+Icon=/path/to/audible-dir/resources/app/icon.png
+Terminal=false
+Categories=Social
